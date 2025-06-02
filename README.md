@@ -1,2 +1,2 @@
 # MKwS
-Umieszczone zostały dwa kody z odzielnymi metodami spalania w Canterze (freeflame, burnerflame), które zostają porównane w raporcie. Urzyta biblioteka z mechanizmami spalania to gri30.yaml
+Umieszczone zostały dwa kody z odzielnymi metodami spalania w Canterze (freeflame, burnerflame), które zostają porównane w raporcie. Użyta biblioteka z mechanizmami spalania to gri30.yaml
